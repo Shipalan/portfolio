@@ -1,0 +1,16 @@
+.hero {
+    width: 100%;
+    height: 1188px;
+    padding: 350px 100px;
+
+}
+
+.wdh2 {
+    font-size: 5rem;
+    color: rgb(73, 73, 73);
+}
+
+.wdh1 {
+    font-size: 6rem;
+    color: var(--primary-text-color);
+}

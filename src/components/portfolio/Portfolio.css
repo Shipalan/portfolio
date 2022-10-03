@@ -1,0 +1,55 @@
+#portfolio {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    height: 1100px;
+    align-items: center;
+    
+}
+
+.h2portfolio {
+    margin-bottom: 150px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+}
+.links h3{
+    color: var(--primary-text-color);
+}
+
+.tt-img {
+    aspect-ratio: auto;
+    max-width: 600px;
+}
+
+.tt-link {
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+
+.tt-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.tNt-img {
+    aspect-ratio: auto;
+    max-width: 600px;
+}
+
+.tNt-link {
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+
+.tNt-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}

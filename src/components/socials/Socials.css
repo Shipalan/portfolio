@@ -1,0 +1,20 @@
+.socials {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 800px;
+    gap: 150px;
+}
+
+.linkedin-img {
+    aspect-ratio: auto;
+    width: 200px;
+}
+
+.github-img {
+    aspect-ratio: auto;
+    width: 200px;
+}

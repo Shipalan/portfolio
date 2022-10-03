@@ -1,0 +1,11 @@
+.nav {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: var(--primary-text-color);
+   
+}
+ .links {
+    display: flex;
+    gap: 50px;
+    font-size: 1.3rem;
+ }

@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px 15px 100px;
+    position: fixed;
+    width: 100vw;
+    background-color: rgb(35, 35, 35);
+    z-index: 10;
+}
+
+
+h2 {
+    color: #EA6A52;
+    font-family: 'Caveat';
+}

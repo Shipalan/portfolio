@@ -1,0 +1,55 @@
+#about-me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 1100px;
+  background-color: rgb(31, 31, 31);
+  width: 100%;
+}
+
+.h2aboutMe {
+  text-align: center;
+}
+
+.aboutMeContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.imgBorder {
+  border: 5px solid var(--highlight-color);
+  width: min-content;
+  margin: 20px 0 0 20px;
+}
+
+.imgBackgroundColor {
+    position: relative;
+    background-color: rgb(22, 22, 22);
+    left: -20px;
+    top: -20px;
+}
+.imgBackgroundColor img{
+    width: 313px;
+}
+
+.bio {
+    padding: 40px;
+}
+
+.bio h3 {
+    font-size: x-large;
+    padding: 0 0 10px 0;
+    color: var(--primary-text-color);
+}
+
+.highlight {
+    color: var(--highlight-color);
+}
+
+.aboutmeP {
+    max-width: 500px;
+    font-size: large;
+    color: var(--primary-text-color);
+}
