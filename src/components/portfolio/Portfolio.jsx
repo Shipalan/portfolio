@@ -9,13 +9,13 @@ const Portfolio = () => {
       <div className="container">
         <h2 className="h2portfolio">Portfolio</h2>
         <div className="links">
-          <div className="tt-app">
+          {/* <div className="tt-app">
             <h3>My First App</h3>
             <img src={tripTracker} className="tt-img"></img>
             <a href="https://f24-capstone-project-alan-ship.herokuapp.com/history" className="tt-link">
               https://f24-capstone-project-alan-ship.herokuapp.com/history
             </a>
-          </div>
+          </div> */}
           <div className="tNt-app">
           <h3>App Utilizing React</h3>
             <img src={tailsNtrails} className="tNt-img" />
